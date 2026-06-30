@@ -10,7 +10,7 @@ DocumentName: /srv/fossology/repository/report
 SPDXID: SPDXRef-DOCUMENT
 
 ##-------------------------
-## Creation Information
+## Creation Information --
 ##-------------------------
 
 Creator: Tool: spdx2
